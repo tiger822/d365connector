@@ -1,6 +1,5 @@
 # d365connector
-Dynamics 365 webservice connector
-A single spring webservice for access Dynamics 365 webservice.
+Dynamics 365 webservice connector, it's A single spring webservice that supports RESTful & SOAP for access Dynamics 365 webservice directly .
 
 
 run d365connector configuration file:
